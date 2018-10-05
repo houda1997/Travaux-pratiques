@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1463740873 source:c:\program_c\tp2\abouchamala_djeddal_g1\noeud.c
+	"noeud.h"
+	<stdlib.h>
+
+1463741664 c:\program_c\tp2\abouchamala_djeddal_g1\noeud.h
+
+1463767287 source:c:\program_c\tp2\abouchamala_djeddal_g1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Modele_Pile.h"
+	"conio.h"
+
+1463741664 c:\program_c\tp2\abouchamala_djeddal_g1\modele_pile.h
+	<stdlib.h>
+	"noeud.h"
+
+1463739999 source:c:\program_c\tp2\abouchamala_djeddal_g1\modele_pile.c
+	"Modele_Pile.h"
+
+1463746764 c:\program_c\tp2\abouchamala_djeddal_g1\conio.h
+	<stdio.h>
+
+1463746776 source:c:\program_c\tp2\abouchamala_djeddal_g1\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1464035936 source:e:\programc\abouchamala_djeddal_g1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Modele_TP2.h"
+
+1463741666 e:\programc\abouchamala_djeddal_g1\modele_pile.h
+	<stdlib.h>
+	"noeud.h"
+
+1463741666 e:\programc\abouchamala_djeddal_g1\noeud.h
+
+1463746766 e:\programc\abouchamala_djeddal_g1\conio.h
+	<stdio.h>
+
+1463746778 source:e:\programc\abouchamala_djeddal_g1\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1463740000 source:e:\programc\abouchamala_djeddal_g1\modele_pile.c
+	"Modele_Pile.h"
+
+1463740874 source:e:\programc\abouchamala_djeddal_g1\noeud.c
+	"noeud.h"
+	<stdlib.h>
+
+1463835953 e:\programc\abouchamala_djeddal_g1\modele_tp2.h
+	<stdio.h>
+	<stdlib.h>
+	"Modele_Pile.h"
+
+1464043085 source:e:\programc\abouchamala_djeddal_g1\modele_tp2.c
+	<stdio.h>
+	<stdlib.h>
+	"Modele_TP2.h"
+
+1463837397 source:e:\programc\abouchamala_djeddal_g1\graphic.c
+	"Graphic.h"
+
+1463837676 e:\programc\abouchamala_djeddal_g1\graphic.h
+	<stdio.h>
+	<stdlib.h>
+	"Modele_TP2.h"
+	"conio.h"
+
+1464047012 source:c:\programc\abouchamala_djeddal_g1\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1464047012 c:\programc\abouchamala_djeddal_g1\conio.h
+	<stdio.h>
+
+1464047012 source:c:\programc\abouchamala_djeddal_g1\graphic.c
+	"Graphic.h"
+
+1464047012 c:\programc\abouchamala_djeddal_g1\graphic.h
+	<stdio.h>
+	<stdlib.h>
+	"Modele_TP2.h"
+	"conio.h"
+
+1464047012 c:\programc\abouchamala_djeddal_g1\modele_tp2.h
+	<stdio.h>
+	<stdlib.h>
+	"Modele_Pile.h"
+
+1464047012 c:\programc\abouchamala_djeddal_g1\modele_pile.h
+	<stdlib.h>
+	"noeud.h"
+
+1464047012 c:\programc\abouchamala_djeddal_g1\noeud.h
+
+1464047012 source:c:\programc\abouchamala_djeddal_g1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Modele_TP2.h"
+
+1464047012 source:c:\programc\abouchamala_djeddal_g1\modele_pile.c
+	"Modele_Pile.h"
+
+1464047012 source:c:\programc\abouchamala_djeddal_g1\modele_tp2.c
+	<stdio.h>
+	<stdlib.h>
+	"Modele_TP2.h"
+
+1464047012 source:c:\programc\abouchamala_djeddal_g1\noeud.c
+	"noeud.h"
+	<stdlib.h>
+
